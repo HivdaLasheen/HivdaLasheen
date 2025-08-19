@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @HivdaLasheen
+- 👋 Hi, I’m @HibaLasheen
 - 👀 I’m interested in Reading,Diving and Swimming
-- 🌱 I’m currently learning C,C#,Python,SQL,Linux and Frontend Track with Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently Building my startup as a technical recruiting platform
+- 💞️ I’m looking to collaborate on Fullstack and UI/UX Projects 
+- 📫 How to reach me ... via heba.mahmoud2024s@gmail.com
 - 😄 Pronouns: She/sie/her
-- ⚡ Fun fact: I used to work as a Flight attendant and Found my way through to tech careers as a Digital Nomad just recently
+- ⚡ Fun fact: I used to work as a Flight attendant and  swimming instructor and Found my way through to as a Digital Nomad just recently .. 
 
 <!---
 HivdaLasheen/HivdaLasheen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
