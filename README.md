@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HibaLasheen
-- 👀 I’m interested in Reading,Diving and Swimming
+- 👀 I’m interested in Reading, Running, Diving and Swimming
 - 🌱 I’m currently Building my startup as a technical recruiting platform
 - 💞️ I’m looking to collaborate on Fullstack and UI/UX Projects 
 - 📫 How to reach me ... via heba.mahmoud2024s@gmail.com
